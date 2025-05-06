@@ -20,6 +20,12 @@ Add these classes to your input fields:
 <input class="val-number" placeholder="Must be a number" />
 <input class="val-email" placeholder="Must be a valid email" />
 ```
+## Install
+
+- Via CDN:
+```html
+<script src="https://cdn.jsdelivr.net/gh/ystorm5/ys-validate@0.0.1/validate.min.js"></script>
+```
 
 ## How to Use
 
